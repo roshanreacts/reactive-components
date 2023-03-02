@@ -1,0 +1,9 @@
+{
+  "name": "reactive-components",
+  "version": "1.0.0",
+  "description": "Dynamic react components to import from cdn URL and use as a normal React Components",
+  "main": "src/index.ts",
+  "author": "Roshan K Gujarathi",
+  "license": "MIT",
+  "private": true
+}
